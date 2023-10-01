@@ -1,0 +1,15 @@
+/Users/ahmetbalaman/Projects/Lecture 3 Homework/Lecture 3 Homework/bin/Debug/net7.0/Lecture 3 Homework
+/Users/ahmetbalaman/Projects/Lecture 3 Homework/Lecture 3 Homework/bin/Debug/net7.0/Lecture 3 Homework.deps.json
+/Users/ahmetbalaman/Projects/Lecture 3 Homework/Lecture 3 Homework/bin/Debug/net7.0/Lecture 3 Homework.runtimeconfig.json
+/Users/ahmetbalaman/Projects/Lecture 3 Homework/Lecture 3 Homework/bin/Debug/net7.0/Lecture 3 Homework.dll
+/Users/ahmetbalaman/Projects/Lecture 3 Homework/Lecture 3 Homework/bin/Debug/net7.0/Lecture 3 Homework.pdb
+/Users/ahmetbalaman/Projects/Lecture 3 Homework/Lecture 3 Homework/obj/Debug/net7.0/Lecture 3 Homework.csproj.AssemblyReference.cache
+/Users/ahmetbalaman/Projects/Lecture 3 Homework/Lecture 3 Homework/obj/Debug/net7.0/Lecture 3 Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetbalaman/Projects/Lecture 3 Homework/Lecture 3 Homework/obj/Debug/net7.0/Lecture 3 Homework.AssemblyInfoInputs.cache
+/Users/ahmetbalaman/Projects/Lecture 3 Homework/Lecture 3 Homework/obj/Debug/net7.0/Lecture 3 Homework.AssemblyInfo.cs
+/Users/ahmetbalaman/Projects/Lecture 3 Homework/Lecture 3 Homework/obj/Debug/net7.0/Lecture 3 Homework.csproj.CoreCompileInputs.cache
+/Users/ahmetbalaman/Projects/Lecture 3 Homework/Lecture 3 Homework/obj/Debug/net7.0/Lecture 3 Homework.dll
+/Users/ahmetbalaman/Projects/Lecture 3 Homework/Lecture 3 Homework/obj/Debug/net7.0/refint/Lecture 3 Homework.dll
+/Users/ahmetbalaman/Projects/Lecture 3 Homework/Lecture 3 Homework/obj/Debug/net7.0/Lecture 3 Homework.pdb
+/Users/ahmetbalaman/Projects/Lecture 3 Homework/Lecture 3 Homework/obj/Debug/net7.0/Lecture 3 Homework.genruntimeconfig.cache
+/Users/ahmetbalaman/Projects/Lecture 3 Homework/Lecture 3 Homework/obj/Debug/net7.0/ref/Lecture 3 Homework.dll
